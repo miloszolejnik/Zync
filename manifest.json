@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Zync Control",
-  "version": "0.1",
+  "name": "Zinc Control",
+  "version": "0.2",
   "permissions": ["storage", "scripting", "tabs"],
   "action": {
     "default_popup": "popup.html"
